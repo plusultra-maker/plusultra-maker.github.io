@@ -26,7 +26,7 @@ I would like to share my recent work with you, though it is still under construc
   Your browser does not support the video tag.
 </video>
 
-This is a approach to train a control policy for 3-cc fatigue restricted character based on AMP. We look forward to the potential of GAN-based learning methods to generate more stylish policies with both more data or special physical constraints.
+This approach aims to train a control policy for 3-CC fatigue-restricted characters based on AMP. We anticipate that GAN-based learning methods hold potential to generate more stylish policies, either with larger datasets or under specific physical constraints
 
 More details will be updated soon.
 
