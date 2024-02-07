@@ -27,14 +27,14 @@ Education
 
 Research Experiences
 ======
-* 05/2023 - Present: Prof. Libin Liu’s group, PKU, China
+* 05/2023 - Present: [**Prof. Libin Liu**](http://www.cad.zju.edu.cn/home/shimin/)’s group, PKU, China
   - Projects: 
     * Proficient in commonly used kinematic algorithms including FK/IK, motion interpolation, and character physics control.
     * Implemented **fatigue state action generation** under 3-CC control using AMP on Isaacgym.
     * Collaborated on **muscle-driven motion generation** and **volumetric muscle simulation**.
     * Currently refining AdaptNet for **motion style transfer** using GANs.
 
-* 07/2023 – 09/2023: VCL (Visual Computing and Learning) Lab Summer School, PKU, China
+* 07/2023 – 09/2023: **VCL** ([Visual Computing and Learning](https://vcl.pku.edu.cn/)) Lab Summer School, PKU, China
   - Projects: 
     * Successfully reproduced DeepMimic physics control **deep reinforcement learning** algorithm.
     * Investigated the expressive capability of **AMP adversarial generation algorithms**.
