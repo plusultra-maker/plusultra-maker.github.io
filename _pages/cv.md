@@ -62,3 +62,5 @@ Technical Skills
 * Experienced with using Isaacgym for simulation tasks.
 * Experienced with **generative models** including Variational Autoencoders (VAE) and Generative Adversarial Networks (GAN).
 
+Download the PDF version of my CV [here](..\files\CV.pdf).
+
