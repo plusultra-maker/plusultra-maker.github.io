@@ -12,7 +12,7 @@ Basics
 ======
 - Boyang YU
 - Peking University, Beijing, China, 100871
-- Email: maverickyouknowwho@gmail.com | Tel: +86-18519644705
+- Email: <maverickyouknowwho@gmail.com> | Tel: +86-18519644705
 
 Education
 ======
