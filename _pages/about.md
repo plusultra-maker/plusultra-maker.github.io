@@ -12,4 +12,10 @@ This is Boyang Yu (喻勃洋) 's homepage on the Web! Welcome!
 
 Who Am I?
 ======
-I am a undergraduate student majoring in Computer Science at Peking University[https://english.pku.edu.cn/], China. I am interested in computer graphics, computer vision, and machine learning. I am also a fan of open source software and Linux. I am currently working on a project about 3D reconstruction and rendering.
+I am a third-year undergraduate student majoring in __Computer Science__ at [Peking University](https://english.pku.edu.cn/), China. I am interested in __computer graphics__, __character animation__, and __robotics__. I am also a fan of AI fields, such as __reinforcement learning__ and __generative models__. 
+Under the guidance of [Prof. Libin Liu](http://www.cad.zju.edu.cn/home/shimin/), I am currently working on a project about _GAN-based Stylized Physics-based Character Control Generation_. 
+
+Recent Work
+======
+I would like to share my recent work with you, though it is still under construction.
+
