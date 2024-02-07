@@ -20,7 +20,7 @@ Recent Work
 ======
 I would like to share my recent work with you, though it is still under construction.
 ### 3-cc fatigue control using AMP
-<video controls>
+<video controls width="500" height="300">
   <source src="../images/3_cc_pre.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
