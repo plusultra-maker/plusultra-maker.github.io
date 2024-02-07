@@ -14,7 +14,7 @@ Who Am I?
 ======
 I am a third-year undergraduate student majoring in **Computer Science** at [Peking University](https://english.pku.edu.cn/), China. My research interest lies in **computer graphics**, **character animation**, and **robotics**. I am also a fan of AI fields, such as **reinforcement learning** and **generative models**. In particular, I am fascinated by the stylish character animation in physics-based simulation, and I am eager to explore the potential of generation models in this field.
 
-Under the guidance of [Prof. Libin Liu](http://www.cad.zju.edu.cn/home/shimin/), I am currently working on a project about *GAN-based Stylized Physics-based Character Control Generation* and *Muscle-driven Character Control* in a more biologically plausible way..
+Under the guidance of [Prof. Libin Liu](https://libliu.info/), I am currently working on a project about *GAN-based Stylized Physics-based Character Control Generation* and *Muscle-driven Character Control* in a more biologically plausible way..
 
 
 Recent Work
