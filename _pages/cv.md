@@ -27,7 +27,7 @@ Education
 
 Research Experiences
 ======
-* 05/2023 - Present: [**Prof. Libin Liu**](http://www.cad.zju.edu.cn/home/shimin/)’s group, PKU, China
+* 05/2023 - Present: [**Prof. Libin Liu**](https://libliu.info/)’s group, PKU, China
   - Projects: 
     * Proficient in commonly used kinematic algorithms including FK/IK, motion interpolation, and character physics control.
     * Implemented **fatigue state action generation** under 3-CC control using AMP on Isaacgym.
