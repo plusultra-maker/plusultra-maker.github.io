@@ -51,6 +51,11 @@ Language Skills
 ======
 * 06/2023: **TOEFL** R: 30 L: 27 S: 22 W: 21 **Total: 100**
 
+Selected Awards
+======
+* Excellent Study Award from Peking University
+* Wanglaoji Enterprise Scholarship
+
 Technical Skills
 ======
 * Proficient in **C++ and Python** programming languages.
