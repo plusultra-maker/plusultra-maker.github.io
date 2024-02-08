@@ -23,7 +23,7 @@ Education
   
 * Since 09/2022: **Peking University**, Beijing, China (Graduated in fall 2025)
   - Bachelor of Science in **Computer Science**, School of Electronics Engineering and Computer Science.
-  - GPA: 3.60/4.00 
+  - GPA: 3.60/4.00 (87 in the percentage scale)
 
 Research Experiences
 ======
