@@ -23,21 +23,21 @@ Education
   
 * Since 09/2022: **Peking University**, Beijing, China (Graduated in fall 2025)
   - Bachelor of Science in **Computer Science**, School of Electronics Engineering and Computer Science.
-  - GPA: 3.60/4.00 (87 in the percentage scale)
+  - GPA: 3.60/4.00 
 
 Research Experiences
 ======
 * 05/2023 - Present: [**Prof. Libin Liu**](https://libliu.info/)’s group, PKU, China
   - Projects: 
     * Proficient in commonly used kinematic algorithms including FK/IK, motion interpolation, and character physics control.
-    * Implemented **fatigue state action generation** under 3-CC control using AMP on Isaacgym.
+    * Generating **stylized and biologically plausible motion** within a **physics-driven environment**:
+      * Implemented a **new fatigue state action generation** under 3-CC control using **GAN-based reinforcement learning** methods on Isaacgym.
+      * Currently engaged in refining AdaptNet for motion style transfer using GANs, **integrating data generated from videos**.
     * Collaborated on **muscle-driven motion generation** and **volumetric muscle simulation**.
-    * Currently refining AdaptNet for **motion style transfer** using GANs.
 
 * 07/2023 – 09/2023: **VCL** ([Visual Computing and Learning](https://vcl.pku.edu.cn/)) Lab Summer School, PKU, China
   - Projects: 
     * Successfully reproduced DeepMimic physics control **deep reinforcement learning** algorithm.
-    * Investigated the expressive capability of **AMP adversarial generation algorithms**.
 
 Selected Course Projects
 ======
@@ -55,17 +55,16 @@ Selected Awards
 ======
 * Excellent Study Award from Peking University
 * Wanglaoji Enterprise Scholarship
+* Second-class scholarship for freshmen
 
 Technical Skills
 ======
-* Proficient in **C++ and Python** programming languages.
-* Experienced in using **Pytorch** for deep learning tasks.
-* Familiar with foundational algorithms and concepts in **reinforcement learning.**
-* Familiar with various fundamental algorithms in the fields of **character animation** and **physics control**.
-* Adept grasp of **machine learning** theory.
-* Possesses basic knowledge of **physics** principles.
-* Experienced with using Isaacgym for simulation tasks.
-* Experienced with **generative models** including Variational Autoencoders (VAE) and Generative Adversarial Networks (GAN).
+* Coding: C++, Python (including Pytorch)
+* Machine learning: reinforcement learning, machine learning theory
+* Graphics: character animation, physics simulation, rendering, NeRF
+* Robotics: proficient in robot kinematics and dynamics, motion planning and control policy, simulation
+* Generative models: Variational Autoencoders (VAE), Generative Adversarial Networks (GAN)
+
 
 Download the PDF version of my CV [here](..\files\CV.pdf).
 
